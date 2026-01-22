@@ -7,15 +7,13 @@ Building things that actually work 🚀
 
 ---
 
+<img src="https://readme-typing-svg.herokuapp.com?font=JetBrains+Mono&size=20&pause=1000&color=9B5DE5&center=true&vCenter=true&width=450&lines=Coding...;Shipping+features...;Breaking+things...;Fixing+things..." />
+
+---
 ### 🧠 Tech Stack
 <p>
   <img src="https://skillicons.dev/icons?i=c,cs,python,kotlin,js,nodejs,postgres,docker,git" />
 </p>
-
----
-
-### ⚡ Contributions
-<img src="https://readme-typing-svg.herokuapp.com?font=JetBrains+Mono&size=20&pause=1000&color=9B5DE5&center=true&vCenter=true&width=450&lines=Coding...;Shipping+features...;Breaking+things...;Fixing+things..." />
 
 ---
 
