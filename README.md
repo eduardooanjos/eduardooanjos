@@ -14,8 +14,8 @@ Building things that actually work 🚀
 
 ---
 
-### 📈 Contributions
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=eduardooanjos&bg_color=0d1117&color=9b5de5&line=9b5de5&point=c77dff&area=true&hide_border=true" />
+### 🗓️ Contributions
+<img src="https://ghchart.rshah.org/9b5de5/eduardooanjos" />
 
 ---
 
