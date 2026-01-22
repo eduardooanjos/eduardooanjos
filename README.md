@@ -14,6 +14,11 @@ Building things that actually work 🚀
 
 ---
 
+### 📊 GitHub Commits
+<img src="https://github-readme-stats.vercel.app/api?username=eduardooanjos&show_icons=true&theme=merko&hide_border=true" />
+
+---
+
 ### 🔗 Connect with me
 <p>
   <a href="https://linkedin.com/in/eduardohen1">
@@ -29,10 +34,5 @@ Building things that actually work 🚀
     <img src="https://img.shields.io/badge/Email-D14836?style=flat&logo=gmail&logoColor=white"/>
   </a>
 </p>
-
----
-
-### 🐍 Contributions
-<img src="https://raw.githubusercontent.com/eduardooanjos/eduardooanjos/output/github-contribution-grid-snake.svg" alt="snake animation"/>
 
 </div>
