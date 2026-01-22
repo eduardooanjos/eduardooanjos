@@ -1,19 +1,38 @@
-## 👋 About
-Software developer focused on backend, mobile and AI.  
-I like building small things that actually work.
+<div align="center">
 
-## 🧠 Stack
-C • C# • Python • Kotlin • JavaScript • Node.js • PostgreSQL • Docker • Git
+# 👋 Hi, I'm Eduardo
 
-## 🔗 Links
-[LinkedIn](https://linkedin.com/in/eduardohen1) ·
-[Instagram](https://instagram.com/eduardohen1) ·
-[Twitch](https://twitch.tv/mano_eduardo) ·
-[Email](mailto:eduardo-henrique-rocha@hotmail.com)
+Backend • Mobile • AI  
+Building things that actually work 🚀
 
 ---
 
-## 🐍 Snake
-<p align="center">
-  <img src="https://raw.githubusercontent.com/eduardooanjos/eduardooanjos/output/github-contribution-grid-snake.svg" alt="snake animation"/>
+### 🧠 Tech Stack
+<p>
+  <img src="https://skillicons.dev/icons?i=c,cs,python,kotlin,js,nodejs,postgres,docker,git" />
 </p>
+
+---
+
+### 🔗 Connect with me
+<p>
+  <a href="https://linkedin.com/in/eduardohen1">
+    <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=flat&logo=linkedin&logoColor=white"/>
+  </a>
+  <a href="https://instagram.com/eduardohen1">
+    <img src="https://img.shields.io/badge/Instagram-E4405F?style=flat&logo=instagram&logoColor=white"/>
+  </a>
+  <a href="https://twitch.tv/mano_eduardo">
+    <img src="https://img.shields.io/badge/Twitch-9146FF?style=flat&logo=twitch&logoColor=white"/>
+  </a>
+  <a href="mailto:eduardo-henrique-rocha@hotmail.com">
+    <img src="https://img.shields.io/badge/Email-D14836?style=flat&logo=gmail&logoColor=white"/>
+  </a>
+</p>
+
+---
+
+### 🐍 Contributions
+<img src="https://raw.githubusercontent.com/eduardooanjos/eduardooanjos/output/github-contribution-grid-snake.svg" alt="snake animation"/>
+
+</div>
