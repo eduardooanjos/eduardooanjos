@@ -14,8 +14,8 @@ Building things that actually work 🚀
 
 ---
 
-### 🗓️ Contributions
-<img src="https://ghchart.rshah.org/9b5de5/eduardooanjos" />
+### ⚡ Contributions
+<img src="https://readme-typing-svg.herokuapp.com?font=JetBrains+Mono&size=20&pause=1000&color=9B5DE5&center=true&vCenter=true&width=450&lines=Coding...;Shipping+features...;Breaking+things...;Fixing+things..." />
 
 ---
 
